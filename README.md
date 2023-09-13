@@ -1,2 +1,0 @@
-# sincronias
-Web devop
