@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2096 777">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: GothamPro-Black, 'Gotham Pro';
+        font-size: 189.56px;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: GothamPro-Light, 'Gotham Pro';
+        font-size: 100.91px;
+        font-weight: 300;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #33a16e;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-2" transform="translate(716.23 404.39)"><tspan x="0" y="0">SINCRONÍ</tspan><tspan class="cls-5" x="977.37" y="0">A</tspan><tspan x="1126.18" y="0">S</tspan></text>
+    <text class="cls-3" transform="translate(1001.41 527.68)"><tspan class="cls-1" x="0" y="0">S</tspan><tspan x="63.07" y="0">TUDIO WEB</tspan></text>
+  </g>
+  <g>
+    <polygon class="cls-4" points="497.17 487.74 536.27 420 344.98 420 288.44 322.07 344.98 224.14 610.93 224.14 650.03 156.41 305.88 156.41 210.23 322.07 305.88 487.74 497.17 487.74"/>
+    <polygon class="cls-6" points="573.73 289.26 382.44 289.26 343.34 357 534.63 357 591.17 454.93 534.63 552.86 265.28 552.86 226.17 620.59 573.73 620.59 669.38 454.93 573.73 289.26"/>
+  </g>
+</svg>
